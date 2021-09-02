@@ -1,7 +1,5 @@
 # hello-world
 My first github project 
 ## my-journey
-wow, long journey finally ended
-things have started to be really amazing
-blah blah blah...
-just updated my repository..
+checking if I'm now good to go for a very long journey.
+hope everything will be well as anticipated...wish me luck pals.
